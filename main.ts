@@ -1,3 +1,4 @@
+//Jaime Alfonso 202116525 j.alfonsor
 import { Serie } from './serie.js';
 
 import { dataSeries } from './DataSeries.js';
